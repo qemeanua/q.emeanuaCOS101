@@ -1,0 +1,1 @@
+C:\Users\Queen\ Esther\Documents\100\ LVL\ -\ 1st\ Semester\COS101\q.emeanuaCOS101\Week_4\practice_12\target\debug\practice_12.exe: C:\Users\Queen\ Esther\Documents\100\ LVL\ -\ 1st\ Semester\COS101\q.emeanuaCOS101\Week_4\practice_12\src\main.rs
