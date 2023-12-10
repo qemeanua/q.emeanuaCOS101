@@ -7,6 +7,7 @@ fn office_adminstator(){
 
     println!("Which Office Administation level do you belong to?");
     std::io::stdin().read_line(&mut level_).expect("Invalid");
+    let level_: String = level_.trim().parse().expect("Invalid");
 
      level.push(level_.clone());
 
